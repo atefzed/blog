@@ -1,0 +1,156 @@
+{
+  "kering": {
+    "name": "Kering",
+    "jobTitle": "Développeur Full Stack NextJS",
+    "missionStart": "Janvier 2024",
+    "missionEnd": "Janvier 2025",
+    "sector": "Luxe",
+    "projects": {
+      "Kering": {
+        "name": "Kering",
+        "description": "Plateforme d'API Management du Groupe La Poste.",
+        "details": "Refonte des sites web de grandes marques du groupe Kering telles que Alexander McQueen, Yves Saint Laurent et Balenciaga."
+      }
+    }
+  },
+  "laposte": {
+    "name": "La Poste Groupe",
+    "jobTitle": "Développeur Full Stack NextJS",
+    "missionStart": "Octobre 2022",
+    "missionEnd": "Décembre 2023",
+    "sector": "Secteur Public",
+    "projects": {
+      "okapi": {
+        "name": "Okapi",
+        "description": "Plateforme d'API Management du Groupe La Poste.",
+        "details": "Refonte du frontend avec NextJs et TypeScript pour une expérience utilisateur optimale. Sur le backend, effectué une refonte avec TypeScript, MongoDB, et Rollup, tout en contribuant activement au développement, aux tests exhaustifs, et à la conformité aux normes au sein d'une équipe agile de 10 personnes suivant la méthodologie Scrum."
+      }
+    }
+  },
+  "greenflex": {
+    "name": "Greenflex",
+    "jobTitle": "Développeur Full Stack NextJS",
+    "missionStart": "Octobre 2020",
+    "missionEnd": "Octobre 2022",
+    "sector": "Energie",
+    "projects": {
+      "greenflex": {
+        "name": "Greenflex",
+        "description": "Tableau de bord dédié à l'analyse et à l'optimisation de la consommation énergétique des clients.",
+        "details": "En tant que développeur fulstack, j'ai créé des composants React alignés sur les maquettes avec styled-components, garantissant une esthétique cohérente. Collaborant au sein d'une équipe Agile SAFE de 8 personnes, j'ai participé activement aux processus de code review sur GitLab, développé et maintenu des composants réutilisables dans une bibliothèque interne. L'intégration de tableaux de bord QLIK et l'utilisation efficace de tests unitaires, Formik, et GraphQL avec Apollo ont contribué à une expérience utilisateur complète et robuste."
+      }
+    }
+  },
+  "louvreHotelsGroup": {
+    "name": "Louvre Hotels Group",
+    "jobTitle": "Développeur Full Stack NextJS",
+    "missionStart": "Janvier 2019",
+    "missionEnd": "Septembre 2020",
+    "sector": "Energie",
+    "projects": {
+      "greenflex": {
+        "name": "Greenflex",
+        "description": "Tableau de bord dédié à l'analyse et à l'optimisation de la consommation énergétique des clients.",
+        "details": "En tant que développeur fulstack, j'ai créé des composants React alignés sur les maquettes avec styled-components, garantissant une esthétique cohérente. Collaborant au sein d'une équipe Agile SAFE de 8 personnes, j'ai participé activement aux processus de code review sur GitLab, développé et maintenu des composants réutilisables dans une bibliothèque interne. L'intégration de tableaux de bord QLIK et l'utilisation efficace de tests unitaires, Formik, et GraphQL avec Apollo ont contribué à une expérience utilisateur complète et robuste."
+      }
+    }
+  },
+  "pmu": {
+    "name": "PMU",
+    "jobTitle": "Développeur Full Stack Java / Python / ReactJS",
+    "missionStart": "Octobre 2017",
+    "missionEnd": "Décembre 2018",
+    "sector": "Energie",
+    "projects": {
+      "greenflex": {
+        "name": "Greenflex",
+        "description": "Tableau de bord dédié à l'analyse et à l'optimisation de la consommation énergétique des clients.",
+        "details": "En tant que développeur fulstack, j'ai créé des composants React alignés sur les maquettes avec styled-components, garantissant une esthétique cohérente. Collaborant au sein d'une équipe Agile SAFE de 8 personnes, j'ai participé activement aux processus de code review sur GitLab, développé et maintenu des composants réutilisables dans une bibliothèque interne. L'intégration de tableaux de bord QLIK et l'utilisation efficace de tests unitaires, Formik, et GraphQL avec Apollo ont contribué à une expérience utilisateur complète et robuste."
+      }
+    }
+  },
+  "pitchy": {
+    "name": "Pitchy",
+    "jobTitle": "Développeur Full Stack NodeJS / ReactJS",
+    "missionStart": "Mai 2017",
+    "missionEnd": "Septembre 2017",
+    "sector": "Energie",
+    "projects": {
+      "greenflex": {
+        "name": "Greenflex",
+        "description": "Tableau de bord dédié à l'analyse et à l'optimisation de la consommation énergétique des clients.",
+        "details": "En tant que développeur fulstack, j'ai créé des composants React alignés sur les maquettes avec styled-components, garantissant une esthétique cohérente. Collaborant au sein d'une équipe Agile SAFE de 8 personnes, j'ai participé activement aux processus de code review sur GitLab, développé et maintenu des composants réutilisables dans une bibliothèque interne. L'intégration de tableaux de bord QLIK et l'utilisation efficace de tests unitaires, Formik, et GraphQL avec Apollo ont contribué à une expérience utilisateur complète et robuste."
+      }
+    }
+  },
+  "ccnotaires": {
+    "name": "C&C NOTAIRES",
+    "jobTitle": "Développeur Full Stack NodeJS/AngularJS",
+    "missionStart": "Janvier 2017",
+    "missionEnd": "Avril 2017",
+    "sector": "Energie",
+    "projects": {
+      "greenflex": {
+        "name": "Greenflex",
+        "description": "Tableau de bord dédié à l'analyse et à l'optimisation de la consommation énergétique des clients.",
+        "details": "En tant que développeur fulstack, j'ai créé des composants React alignés sur les maquettes avec styled-components, garantissant une esthétique cohérente. Collaborant au sein d'une équipe Agile SAFE de 8 personnes, j'ai participé activement aux processus de code review sur GitLab, développé et maintenu des composants réutilisables dans une bibliothèque interne. L'intégration de tableaux de bord QLIK et l'utilisation efficace de tests unitaires, Formik, et GraphQL avec Apollo ont contribué à une expérience utilisateur complète et robuste."
+      }
+    }
+  },
+  "adveez": {
+    "name": "ADVEEZ",
+    "jobTitle": "Développeur Full Stack NodeJS / ReactJS",
+    "missionStart": "Octobre 2015",
+    "missionEnd": "Décembre 2016",
+    "sector": "Energie",
+    "projects": {
+      "greenflex": {
+        "name": "Greenflex",
+        "description": "Tableau de bord dédié à l'analyse et à l'optimisation de la consommation énergétique des clients.",
+        "details": "En tant que développeur fulstack, j'ai créé des composants React alignés sur les maquettes avec styled-components, garantissant une esthétique cohérente. Collaborant au sein d'une équipe Agile SAFE de 8 personnes, j'ai participé activement aux processus de code review sur GitLab, développé et maintenu des composants réutilisables dans une bibliothèque interne. L'intégration de tableaux de bord QLIK et l'utilisation efficace de tests unitaires, Formik, et GraphQL avec Apollo ont contribué à une expérience utilisateur complète et robuste."
+      }
+    }
+  },
+  "tunpixel": {
+    "name": "Tunpixel",
+    "jobTitle": "Développeur Full Stack NodeJS / AngularJS",
+    "missionStart": "Juin 2014",
+    "missionEnd": "Septembre 2015",
+    "sector": "Energie",
+    "projects": {
+      "greenflex": {
+        "name": "Greenflex",
+        "description": "Tableau de bord dédié à l'analyse et à l'optimisation de la consommation énergétique des clients.",
+        "details": "En tant que développeur fulstack, j'ai créé des composants React alignés sur les maquettes avec styled-components, garantissant une esthétique cohérente. Collaborant au sein d'une équipe Agile SAFE de 8 personnes, j'ai participé activement aux processus de code review sur GitLab, développé et maintenu des composants réutilisables dans une bibliothèque interne. L'intégration de tableaux de bord QLIK et l'utilisation efficace de tests unitaires, Formik, et GraphQL avec Apollo ont contribué à une expérience utilisateur complète et robuste."
+      }
+    }
+  },
+  "masterCourses": {
+    "name": "MasterCourses",
+    "jobTitle": "Développeur Full Stack Python / BackboneJS",
+    "missionStart": "Septembre 2013",
+    "missionEnd": "Mai 2014",
+    "sector": "Energie",
+    "projects": {
+      "greenflex": {
+        "name": "Greenflex",
+        "description": "Tableau de bord dédié à l'analyse et à l'optimisation de la consommation énergétique des clients.",
+        "details": "En tant que développeur fulstack, j'ai créé des composants React alignés sur les maquettes avec styled-components, garantissant une esthétique cohérente. Collaborant au sein d'une équipe Agile SAFE de 8 personnes, j'ai participé activement aux processus de code review sur GitLab, développé et maintenu des composants réutilisables dans une bibliothèque interne. L'intégration de tableaux de bord QLIK et l'utilisation efficace de tests unitaires, Formik, et GraphQL avec Apollo ont contribué à une expérience utilisateur complète et robuste."
+      }
+    }
+  },
+  "intercomConsulting": {
+    "name": "Intercom Consulting",
+    "jobTitle": "Développeur Java JEE(Stage)",
+    "missionStart": "Janvier 2012",
+    "missionEnd": "Août 2012",
+    "sector": "Energie",
+    "projects": {
+      "greenflex": {
+        "name": "Greenflex",
+        "description": "Tableau de bord dédié à l'analyse et à l'optimisation de la consommation énergétique des clients.",
+        "details": "En tant que développeur fulstack, j'ai créé des composants React alignés sur les maquettes avec styled-components, garantissant une esthétique cohérente. Collaborant au sein d'une équipe Agile SAFE de 8 personnes, j'ai participé activement aux processus de code review sur GitLab, développé et maintenu des composants réutilisables dans une bibliothèque interne. L'intégration de tableaux de bord QLIK et l'utilisation efficace de tests unitaires, Formik, et GraphQL avec Apollo ont contribué à une expérience utilisateur complète et robuste."
+      }
+    }
+  }
+}

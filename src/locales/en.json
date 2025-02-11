@@ -1,0 +1,25 @@
+{
+  "laposte": {
+    "name": "La Poste Groupe",
+    "jobTitle": "Développeur Full Stack JS",
+    "missionStart": "Octobre 2022 ",
+    "missionEnd": "Décembre 2023 ",
+    "sector": "Secteur Public",
+    "description": "Plateforme d'API Management du Groupe La Poste.",
+    "projects": {
+      "okapi": {
+        "name": "Okapi",
+        "details": {
+          "1": "Refonte du frontend (develper.laposte.fr) via NextJs et TypeScript, optimisant l'expérience utilisateur.",
+          "2": "Création et stylisation des composants React à partir des maquettes Zeplin, en utilisant styled-components.",
+          "3": "Mise en place de tests unitaires exhaustifs avec Jest et React Testing Library, garantissant la stabilité du code.",
+          "4": "Exécution de tests end-to-end avec Cypress, assurant la qualité et la fiabilité de l'application.",
+          "5": "Développement de formulaires dynamiques avec React Hook Form, assurant une création et une validation simples et robustes.",
+          "6": "Contribution active aux processus de code review et aux demandes de fusion sur GitLab, garantissant la conformité aux normes de codage.",
+          "7": "Implémentation efficace des requêtes GraphQL avec Apollo et Prisma, renforçant la connectivité et la récupération de données.",
+          "8": "Participation agile au sein d'une équipe de 10 personnes, utilisant la méthodologie Scrum pour maximiser l'efficacité et la collaboration."
+        }
+      }
+    }
+  }
+}
