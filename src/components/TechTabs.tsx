@@ -19,7 +19,7 @@ const TechGrid = ({ items }: { items: string[] }) => {
     <div className="grid grid-cols-3 gap-2">
       {items.map(item => (
         <Button
-          className={"flex border border-gray-300 p-2 shadow-sm"}
+          className={"flex p-2 shadow-sm"}
           key={item}
           variant={selectedTags.includes(item.toLowerCase()) ? "default" : "outline"}
           onClick={() => toggleTag(item)}

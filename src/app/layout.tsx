@@ -17,11 +17,7 @@ export const metadata: Metadata = {
   description: "A Web Developer based in Paris, FRANCE.",
 };
 
-export default function RootLayout({
-  children,
-}: Readonly<{
-  children: React.ReactNode;
-}>) {
+export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="en">
       <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
